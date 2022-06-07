@@ -33,7 +33,7 @@ const account4 = {
   pin: 4444,
 };
 
-console.log('Welcome to the application');
+console.log('Welcome: This is a banking application');
 
 const accounts = [account1, account2, account3, account4];
 
